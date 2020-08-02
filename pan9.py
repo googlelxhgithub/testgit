@@ -2,7 +2,9 @@
 # 输入任意一个字符串，
 # 如何才能得到空格、数字、字符和“其他”的个数？
 
-# 学会使用isdigital, isspace, isalpha
+# 知识点：
+# isdigital, isspace, isalpha
+# 字典
 
 # 输入任意字符串
 s = input("plean input any strings: ")
