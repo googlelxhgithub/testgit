@@ -25,5 +25,5 @@ print("method 2: from pan")
 for i in range(100, 1000):
     # 先转成字符串，方便提取位置上的数字
     s = str(i)
-    if int(s[0]) ** 3 + int(s[1]) ** 3 + int(s[2]) **2 == i:
+    if int(s[0]) ** 3 + int(s[1]) ** 3 + int(s[2]) **3 == i:
         print(i)
