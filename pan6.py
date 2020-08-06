@@ -1,4 +1,5 @@
 # 如何用程序来求任意两个数的最大公约数？
+# 最打的能被两个数整除的数
 
 a = int(input("first: "))
 b = int(input("second: "))
