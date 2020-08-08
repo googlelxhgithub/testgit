@@ -22,7 +22,7 @@ for i in range(1, n + 1):
 # method 2 from pan:
 n = int(input())
 
-for i in range(1, n + 1, 2):
+for i in range(1, n + 1, 2): # 递增2
     s = "*" * i
     print(s.center(n))
 for i in range(n - 2, 0, -2):

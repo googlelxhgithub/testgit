@@ -3,6 +3,7 @@
 
 st = input()
 
+print(st[:])
 print(st[::-1])
 
 
