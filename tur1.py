@@ -10,6 +10,7 @@ keith = turtle.Turtle()
 
 # keith.color("blue")
 keith.color("blue", "cyan")
+keith.pensize(4)
 # keith.color("#3c9118")
 
 # keith.begin_fill()

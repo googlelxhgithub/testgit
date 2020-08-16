@@ -32,3 +32,4 @@ for i in range(1, n+1):
     old_line = new_line
     print(new_line)
 
+# 关键要知道range的合理使用。
